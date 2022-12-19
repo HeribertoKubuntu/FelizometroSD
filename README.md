@@ -18,7 +18,7 @@ Ofrecer un mejor servico a nuestros pacientes.
 
 ## Capturas de Pantalla
 
-![](assets/captura.png)
+![](captura.png)
 
 <hr>
 
